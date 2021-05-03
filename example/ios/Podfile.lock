@@ -1,0 +1,29 @@
+PODS:
+  - EZPlayer (1.1.0)
+  - Flutter (1.0.0)
+  - flutter_ezplayer (0.0.1):
+    - EZPlayer (~> 1.1.0)
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_ezplayer (from `.symlinks/plugins/flutter_ezplayer/ios`)
+
+SPEC REPOS:
+  trunk:
+    - EZPlayer
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_ezplayer:
+    :path: ".symlinks/plugins/flutter_ezplayer/ios"
+
+SPEC CHECKSUMS:
+  EZPlayer: 0811e3442139aaf0198a0695c02bd103bbab6966
+  Flutter: f7eedb4a11d54bd69511d0abf28996b73c32c084
+  flutter_ezplayer: 0478f88a5790a84fa7a0cf6c2bbe4634cf57cb9e
+
+PODFILE CHECKSUM: fe0e1ee7f3d1f7d00b11b474b62dd62134535aea
+
+COCOAPODS: 1.9.3
